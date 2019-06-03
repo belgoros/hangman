@@ -1,5 +1,8 @@
 # Hangman
 
-git clone https://github.com/pragdave/e4p-code.git # if needed
-$ git checkout 050-start-hangman-complete
-$ cd game/hangman
+A Hangman module for **Hangman** project developed during [Elixir for programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers) course with Dave Thomas.
+
+### Installation
+
+Install dependencies with `mix deps.get`.
+This will install [Dictionary](https://github.com/belgoros/dictionary) module dependency.
